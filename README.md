@@ -1,6 +1,16 @@
-**Both files for Spark Streaming API**
-⋅⋅* exserver.py
-⋅⋅* exclient.ipynb
+**First exercice is composed of one file**
+
+*Ex1.ipynb
+
+
+**Second exercice is composed of two files**
+
+It is about Spark Streaming API
+
+* exserver.py
+* exclient.ipynb
+
+To run this exercice :
 
 1. First, run :  `nc -lk 12345` this command is used to open a network connection using the tool `nc` (which stands for "netcat") in listening mode on port 12345 
 

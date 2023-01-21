@@ -1,3 +1,9 @@
+# DEBUYSERE Solene
+# TRAILOVIC Luka
+# WU Max
+
+# file used to stream tweets and exposed them on port 12345
+
 import socket
 import time
 import tweepy
