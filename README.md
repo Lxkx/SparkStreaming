@@ -1,6 +1,6 @@
 **First exercice is composed of one file**
 
-*Ex1.ipynb
+* Ex1.ipynb
 
 
 **Second exercice is composed of two files**
